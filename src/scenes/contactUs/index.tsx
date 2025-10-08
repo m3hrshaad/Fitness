@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import React from 'react'
 import { SelectedPage } from '../../shared/types'
 import { useForm } from 'react-hook-form'
 import ContactUsPageGraphic from '../../assets/ContactUsPageGraphic.png'
